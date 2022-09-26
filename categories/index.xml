@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Sognare</title>
+    <link>https://nidasveras.github.io/categories/</link>
+    <description>Recent content in Categories on Sognare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <lastBuildDate>Fri, 23 Sep 2022 17:34:51 +0000</lastBuildDate><atom:link href="https://nidasveras.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sognare</title>
+      <link>https://nidasveras.github.io/categories/sognare/</link>
+      <pubDate>Fri, 23 Sep 2022 17:34:51 +0000</pubDate>
+      
+      <guid>https://nidasveras.github.io/categories/sognare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncategorized</title>
+      <link>https://nidasveras.github.io/categories/uncategorized/</link>
+      <pubDate>Fri, 23 Sep 2022 17:34:51 +0000</pubDate>
+      
+      <guid>https://nidasveras.github.io/categories/uncategorized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dream</title>
+      <link>https://nidasveras.github.io/categories/dream/</link>
+      <pubDate>Fri, 23 Sep 2022 14:13:33 +0000</pubDate>
+      
+      <guid>https://nidasveras.github.io/categories/dream/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
